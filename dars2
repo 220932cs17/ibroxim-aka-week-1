@@ -1,0 +1,136 @@
+
+//
+//  main.cpp
+//  week 1
+//
+//  Created by Sukhrob Dekhkanov on 14/02/23.
+//
+
+#include <iostream>
+using namespace std;
+
+
+int main(int argc, const char * argv[]) {
+    
+    
+    
+    
+    //problem 1
+    
+    /*
+     
+    int int_num=30;
+   float float_num =50;
+   double double_num=100;
+    bool bool_type=false;
+   char char_name='$';
+    cout<<int_num<<endl<<float_num<<endl<<double_num<<endl<<bool_type<<endl<<char_name<<endl;
+     
+     */
+    
+    //problem2
+    /*
+    int a;
+    cin>>a;
+    int b;
+    cin>>b;
+    int result=a+b;
+    cout<<"product: "<<result<<endl;
+     */
+    
+    
+    
+    //problem 3
+    
+    
+    /*
+    int a=23;
+    int b=87;
+    int c=a*b;
+    cout<<"product: "<<a<<" * "<<b<<" = "<<c*b<<endl;
+    
+  */
+    
+    
+    //problem 4
+    
+   /*
+    float l,w;
+    cout<<"Enter length";
+    cin>>l;
+    cout<<"Enter width";
+    cin>>w;
+    cout<<"Area: "<<l*w<<endl;
+    cout<<"Perimetr; "<<2*(l*w)<<endl;
+    
+    */
+    
+    
+    
+    
+    
+    //problem 5
+    /*
+    int a=false;
+    int b=true;
+    cout<<a<<"false"<<b<<"true"<<endl;
+    */
+    
+    
+    //problem 6
+   
+    /*
+    int a=3;
+    int b=3;
+    cout<<a*b<<endl;
+     */
+    
+    //problem 7
+    
+    /*
+    
+    int a=250;
+    int b=106;
+    int c=5;
+    cout<<b/c<<endl;
+     
+    */
+    
+    
+    //problem 10
+    
+    /*
+    int a,b;
+    
+    cin>>a>>b;
+    
+    if(a<50 && a<b){
+        
+        cout<<"true"<<endl;
+    }
+*/
+   
+    
+    //problem 11
+    
+    /*
+    int a,b;
+    cin>>a>>b;
+    cout<<(a<50||a<b)<<endl;
+
+    */
+    
+    
+ //problem 12
+    
+    int a=74.5;
+    int b=30;
+    int c=100;
+    cout<<("74.5*30/100")<<endl;
+    
+    
+    
+    
+    
+    return 0;
+}
