@@ -1,0 +1,90 @@
+//
+//  main.cpp
+//  fffff
+//
+//  Created by Sukhrob Dekhkanov on 24/02/23.
+//
+
+#include <iostream>
+using namespace std;
+
+
+int main(int argc, const char * argv[]) {
+    
+    
+    
+   // problem 1
+    
+    
+    /*
+   
+    int x;
+    cin>>x;
+    switch (x){
+            
+        case 1:
+            cout<<"monday"<<endl;
+            break;
+        case 2:
+            cout<<"tuesday"<<endl;
+            break;
+        case 3:
+            cout<<"wednesday"<<endl;
+            break;
+        case 4:
+            cout<<"thursday"<<endl;
+            break;
+        case 5:
+            cout<<"friday"<<endl;
+            break;
+        case 6:
+            cout<<"saturday"<<endl;
+            break;
+        case 7:
+            cout<<"sunday"<<endl;
+            break;
+        default:
+            cout<<" it is not weekday"<<endl;
+            
+    }
+            
+            
+    */
+    
+    
+    //problem 2
+    
+    
+    int grade;
+    cin>>grade;
+    switch(grade/10){
+        case 9:
+            cout<<"A"<<endl;
+            break;
+        case 8:
+            cout<<"B"<<endl;
+            break;
+        case 3:
+            cout<<"C"<<endl;
+            break;
+        case 4:
+            cout<<"D"<<endl;
+            break;
+        case 5:
+            cout<<"E"<<endl;
+            break;
+        default:
+            cout<<"F"<<endl;
+            break;
+            
+            
+            
+    }
+        
+            
+            
+         
+    
+    
+    return 0;
+    }
